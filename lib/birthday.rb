@@ -10,7 +10,3 @@ def happy_birthday(birthday_kids)
     puts "Happy Birthday #{x}! You are now #{i} years old!"
   }
 end
-
-def select_winner
-  
-end
