@@ -12,3 +12,4 @@ def happy_birthday(birthday_kids)
 end
 
 
+select_winner
